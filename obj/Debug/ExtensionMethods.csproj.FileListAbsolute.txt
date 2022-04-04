@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Máy tính\FPTcode\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Máy tính\FPTcode\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Máy tính\FPTcode\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Lenovo\OneDrive\Máy tính\FPTcode\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Lenovo\OneDrive\Máy tính\FPTcode\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Lenovo\OneDrive\Máy tính\FPTcode\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Lenovo\OneDrive\Máy tính\FPTcode\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
